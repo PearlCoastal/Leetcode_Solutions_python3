@@ -53,3 +53,8 @@ ob =  Solution()
 ans = printList(ob.deleteDuplicates(head))
 
 ans
+
+
+'''
+wodaoshi yaokankann  nizhege github youduomede lihai
+'''
