@@ -24,7 +24,9 @@ class Solution:
 
             tail = head
             if tail is not None:
+
                 if not palindromeCheck(tail.next): return False
+
                 if self.frontier.val != tail.val: return False
                 self.frontier = self.frontier.next
             return True
@@ -33,16 +35,11 @@ class Solution:
 
 
 # head = createList([1,2,2,1])
-head = createList([1,2,3,2,1])
-# head = createList([1,2,3,4,2,1])
+# head = createList([1,2,3,2,1])
+head = createList([1,2,3,4,2,1])
 # head = createList([1,2])
 
 ob = Solution()
 ans = ob.isPalindrome(head)
 
 ans
-
-'''
-github lalala
-
-'''
