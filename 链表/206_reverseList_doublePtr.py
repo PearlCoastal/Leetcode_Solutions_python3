@@ -31,17 +31,17 @@ def print_list(head: ListNode) -> [int]:
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
 
-        pre = None
-        cur = head
+        slow = None
+        fast = head
 
-        while cur:
+        while fast:
 
-            temp = cur.next
-            cur.next = pre
-            pre = cur
-            cur = temp
+            temp = fast.next
+            fast.next = slow
+            slow = fast
+            fast = temp
         
-        return pre
+        return slow
             
             
 
