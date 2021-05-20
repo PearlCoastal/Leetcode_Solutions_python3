@@ -6,17 +6,17 @@ class TreeNode:
         self.right = right
         
 class Solution:
-    def buildTree(self, preorder: [int], inorder: [int]) -> TreeNode:
+    def buildTree(self, inorder: [int], postorder: [int]) -> TreeNode:
 
 
-        length = len(preorder)
+        length = len(inorder)
         if not length: return None
 
-        root = TreeNode(val= preorder[0], left= None, right= None)
+        root = TreeNode(val= postorder[-1], left= None, right= None)
 
-        index = inorder.index(preorder[0])
+        index = inorder.index(preorder[-1])
 
-        root.left = self.buildTree(preorder[1: 1 + index], inorder[0: 1 + index])
+        root.left = self.buildTree(preorder[0: 1 + index], inorder[0: 1 + index])
 
         root.right = self.buildTree(preorder[1 + index: ], inorder[1 + index: ])
 
