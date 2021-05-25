@@ -5,21 +5,45 @@ class TreeNode:
         self.left = left
         self.right = right
 
+
 class Solution:
-    def generateTrees(self, n: int) -> List[TreeNode]:
+    def generateTrees(self, n: int) -> [TreeNode]:
 
-    def build(self, lo: int, hi: int):
+        if not n: return []
 
-        if lo > hi: return [None, ]
+        return self.build(1, n)
+        
+
+    def build(self, lo, hi):
+        
+        res = []
+
+        if lo > hi:
+            res.append(None)
+            return res
 
         for i in range(lo, hi + 1):
 
-            left = self.build(lo, i-1)
-            right = self.build(i+1, hi)
+            left = self.build(lo, i - 1)
+            right = self.build(i + 1, hi)
+            
 
             for l in left:
                 for r in right:
 
-                    currTree = TreeNode(val= i, left= None, right= None)
+                    currTree = TreeNode(i)
+                    currTree.left = l
+                    currTree.right = r
+                    res.append(currTree)
+        
+        return res
+        
+        
+
+n = 5
+ob = Solution()
+ans = ob.generateTrees(n)
+
+ans
 
                     

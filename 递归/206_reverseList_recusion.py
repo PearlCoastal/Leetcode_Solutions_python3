@@ -40,7 +40,7 @@ class Solution:
         head.next = None
 
         return reverse_head
-    '''
+    
     
     connector = ListNode(0, None)
 
@@ -72,7 +72,7 @@ class Solution:
 
 
 head = createList([1, 2, 3, 4, 5, 6])
-head = createList([])
+# head = createList([])
 
 ob = Solution()
 ans = ob.reverseList(head)

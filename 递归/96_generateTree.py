@@ -1,3 +1,5 @@
+
+
 class Solution:
     def numTrees(self, n: int) -> int:
         
@@ -15,6 +17,7 @@ class Solution:
         while index != hi:
 
             left = self.countTrees(lo, index)
+            
             right = self.countTrees(index + 1, hi)
 
             count += left * right
@@ -29,3 +32,4 @@ ob = Solution()
 ans = ob.numTrees(n)
 
 ans
+

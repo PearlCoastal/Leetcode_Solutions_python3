@@ -8,6 +8,7 @@ class TreeNode:
 class Solution:
     def maxPathSum(self, root: TreeNode) -> int:
 
+        self.maxSum = float('-inf')
 
 root = [1,2,3]
 ob = Solution()

@@ -4,7 +4,7 @@ class ListNode:
         self.val = val
         self.next = next
 
-def createList(array: [int]) -> ListNode:
+def createList(array: [int]):
 
     head = ListNode(val= array[0], next= None)
     ptr = head
@@ -15,7 +15,7 @@ def createList(array: [int]) -> ListNode:
 
     return head
 
-def printList(head: ListNode) -> [int]:
+def printList(head: ListNode):
 
     array = []
     cur = head
@@ -30,7 +30,7 @@ def printList(head: ListNode) -> [int]:
 
 class Solution():
     
-    def reverseKGroup(self, head: ListNode, k: int) -> ListNode:
+    def reverseKGroup(self, head: ListNode, k: int):
 
         dummy = ListNode(val= 0, next= head)
     
