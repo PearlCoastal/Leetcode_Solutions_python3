@@ -1,4 +1,4 @@
-
+import copy
 class Solution:
     def permute(self, nums: [int]) -> [[int]]:
 
