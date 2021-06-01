@@ -12,8 +12,8 @@ class Solution:
                 position = dict[num_to_find]
                 return [position, index]
             
-            dict.setdefault(value)
-            dict[value] = index
+            dict.setdefault(value, index)
+            # dict[value] = index
         
 nums = [2,7,1,9]
 
