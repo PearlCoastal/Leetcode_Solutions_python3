@@ -10,6 +10,7 @@ class Solution:
         def possible(mid: int) -> bool:
             time = 0
             for pile in piles:
+                #计算每小时吃香蕉的速度 吃完香蕉的时间，我为啥不会算呢
                 time += (pile + mid - 1) // mid
             
             return time <= h
