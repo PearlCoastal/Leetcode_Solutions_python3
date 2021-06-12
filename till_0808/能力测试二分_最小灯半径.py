@@ -11,10 +11,12 @@ class Solution:
         def possible(diameter):
             start = nums[0]
             end = start + diameter
+            #一共三个灯
             for i in range(LIGHTS):
                 idx = bisect_right(nums, end)
                 if idx >= N:
                     return True
+                #放到下一个可以被照亮的地方
                 start = nums[idx]
                 end = start + diameter
             return False

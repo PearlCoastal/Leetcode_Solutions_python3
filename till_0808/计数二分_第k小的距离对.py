@@ -7,6 +7,8 @@ class Solution:
 
             leftp = 0
             cnt = 0
+
+            #这里还是没看懂，继续看一下
             for i in range(1, len(nums)):
                 while(nums[i] - nums[leftp] > mid):
                     leftp += 1
