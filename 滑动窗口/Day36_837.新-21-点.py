@@ -1,4 +1,4 @@
-#
+»#
 # @lc app=leetcode.cn id=837 lang=python3
 #
 # [837] 新21点

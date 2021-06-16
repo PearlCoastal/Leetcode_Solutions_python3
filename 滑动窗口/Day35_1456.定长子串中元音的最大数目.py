@@ -11,17 +11,21 @@ class Solution:
         vowels = ["a", "e", "i", "o", "u"]
 
         cur = 0
+        ans = 0
+        cnt = 0
         for i in range(k):
             if s[i] in vowels:
-                cur += 1
+                cnt += 1
+        ans = cnt
 
-        ans = cur
         for i in range(k, len(s)):
-            cur += 1 if s[i] in vowels else 0
-            cur -= 1 if s[i-k] in vowels else 0
-            ans = max(ans, cur)
+            cnt += 1 if s[i] in vowels else 0
+            cnt -= 1 if s[i - k] in vowels else 0
+
+            ans = max(ans, cnt)
         
         return ans
+
 
 # @lc code=end
 
