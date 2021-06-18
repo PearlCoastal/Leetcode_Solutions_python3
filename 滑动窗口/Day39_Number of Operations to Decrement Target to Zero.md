@@ -94,26 +94,41 @@ class Solution:
 ```
 ---
 
-- 能力检测二分：
+- 二分法 + 前缀和后缀和：
 
 ```python
-if not A and not target: return 0
-
-        def possible(mid: int) -> bool:
-
-            
-
-        left, right = 0, len(A)
-        ans = len(A) + 1
-
-        while left <= right:
-            mid = (left + right) // 2
-
-            if possible(mid):
-                ans = min(ans, mid)
-                right = mid - 1
-            else:
-                left = mid + 1
+class Solution:
+    def solve(self, nums, target):
         
-        return -1 if ans == len(A) + 1 else ans
+        n = len(nums)
+
+        if not target: return 0 
+
+        prefix = [0] * (n + 1)
+        suffix = [0] * (n + 1)
+        prefix[0] = 0
+        suffix[0] = 0
+        for i in range(n):
+            prefix[i + 1] = prefix[i] + nums[i]
+            suffix[i + 1] = suffix[i] + nums[n - i - 1]
+
+        if prefix[n] < target: return -1
+
+        ans, cur = float('inf'), float('inf')
+
+        for i in range(n):
+            left, right = 0, n - 1
+            while left <= right:
+                mid = left + (right - left) // 2
+                if prefix[i] + suffix[mid] == target:
+                    curr = i + mid
+                    break
+                elif prefix[i] + suffix[mid] < target:
+                    left = mid + 1
+                else:
+                    right = mid - 1
+
+            ans = min(ans, curr)
+        
+        return -1 if ans == float('inf') else ans
 ```            
