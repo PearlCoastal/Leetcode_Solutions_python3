@@ -10,7 +10,7 @@
     线性回归的公式：    y = Xβ + ε
     参数估计方法：最小二乘法（最小化预测 + 实际之间的欧氏距离）
 
---> 将线性回归应用到分类问题中，比如二分类问题：将 X 对应的 y 分为 类别0 和 类别1。但是线性回归本身的输出是连续的，随意要用单位阶跃函数映射到{0， 1}
+    --> 将线性回归应用到分类问题中，比如二分类问题：将 X 对应的 y 分为 类别0 和 类别1。但是线性回归本身的输出是连续的，随意要用单位阶跃函数映射到{0， 1}
 
 - 逻辑回归：广义线性回归 中的一种以 **对数几率函数** 为联系函数的特例。联系函数： Sigmoid()
 
@@ -45,6 +45,7 @@
 ## 3.   分类问题常用的性能度量指标
 
 - 混淆矩阵(Confuse Matrix): 更好的理解分类中的错误：TP/TN/FP/FN(针对二分类问题)
+![image](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/img-folder/ConfuseMatrix.png)
 
 - 准确率(Accuracy): 所有样本中预测正确的样本占比    
                     
@@ -73,20 +74,24 @@
 
 - AUC(Area under Curve):    曲线下面积，AUC面积值越大，模型的准确度越高。
 
+![image](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/img-folder/AUC.png)
+
 - KS曲线(Kolmogorov-Smirnov): 模型的风险区分能力
 
 - Lift值：指与不利用模型相比，模型的预测能力变好了多少。用该模型 与 没有该模型(随机选择)所得出的结果的壁纸，lift应该要 > 1， 而且lift越大，说明预测效果越好。
 
 - P-R曲线：(Precision Recall Curve):    Precision 和 Recall 之间的关系
 
+![image](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/img-folder/PRCurve.png)
+
 
 ## 4.   逻辑回归的损失函数
 
 - 0-1损失函数(0-1 loss function):
 
-                    1, Y != f(x)
-    L(Y, f(x)) =    
-                    0, Y == f(x)
+                
+    L(Y, f(x)) =  1, Y != f(x)
+                  0, Y == f(x)
 
 - 平方损失函数(quadratic loss function):
 
