@@ -6,6 +6,17 @@
 
 # @lc code=start
 class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
+    def permute(self, nums: [int]) -> [[int]]:
+
+        length = len(nums)
+        
+        nums.sort()
+        path = []
+        ans = []
+
 # @lc code=end
 
+nums = [1,2,3]
+ob = Solution()
+ans = ob.permute(nums)
+ans
