@@ -1,25 +1,4 @@
-'''
-class Solution:
-    def longestPalindrome(self, s: str) -> str:
-        length_of_s = len(s)
-        dp = [[False] * length_of_s for _ in range(length_of_s)]
-        ans = ""
 
-        for length_of_substring in range(length_of_s):
-            for begin_of_result in range(length_of_s):
-                end_of_result = begin_of_result + length_of_substring
-                if end_of_result >= len(s):
-                    break
-                if length_of_substring == 0:
-                    dp[begin_of_result][end_of_result] = True
-                elif length_of_substring == 1:
-                    dp[begin_of_result][end_of_result] = (s[begin_of_result] == s[end_of_result])
-                else:
-                    dp[begin_of_result][end_of_result] = (dp[begin_of_result + 1][end_of_result - 1] and s[begin_of_result] == s[end_of_result])
-                if dp[begin_of_result][end_of_result] and length_of_substring + 1 > len(ans):
-                    ans = s[begin_of_result:end_of_result+1]
-        return ans
-'''
 
 class Solution:
     def expandAroundCenter(self, s, left, right):
