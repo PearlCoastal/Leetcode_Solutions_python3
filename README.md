@@ -66,6 +66,7 @@ DFS/BFS 搜索
 9.  [[486] predict_the_winner](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/486_predict_the_winner.py)
 10. [[53] Maximum_Subarray](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/53_Maximum_Subarray.py)
 11. [[877] stone_game](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/877_stone_game.py)
+12. [[198] 打家劫舍](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
 
 
 单链表
