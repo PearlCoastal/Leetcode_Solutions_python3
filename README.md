@@ -2,6 +2,26 @@
 
 Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库。
 
+动态规划
+====
+
+1.  [[300] Longest_Increasing_Subsequence](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/300.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md)
+2.  [[1143] 最长公共子序列](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md)
+3.  [[198] 打家劫舍](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
+4.  [[746] 使用最小花费爬楼梯](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/Day46_746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
+5.  [[435] 无重叠区间](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/435.%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.md)
+6.  [[452] 用最少数量的箭引爆气球](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/452.%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.md)
+7.  [[673] 最长递增子序列的个数](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/673.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97%E7%9A%84%E4%B8%AA%E6%95%B0.md)
+8.  [[03] Longest Substring_Without_Repeating_Characters](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/03_Longest%20Substring_Without_Repeating_Characters.py)
+9.  [[05] longestPalindrome](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/05_longestPalindrome.py)
+10.  [[1014] Best_Sightseeing_Pair](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/1014_Best_Sightseeing_Pair.py)
+11.  [[338] Counting_Bits](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/338_Counting_Bits.py)
+12.  [[42] trapping_rain_water](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/42_trapping_rain_water.py)
+13.  [[474] zeroes_ones](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/474_zeroes_ones.py)
+14.  [[486] predict_the_winner](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/486_predict_the_winner.py)
+15.  [[53] Maximum_Subarray](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/53_Maximum_Subarray.py)
+16.  [[877] stone_game](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/877_stone_game.py)
+
 二分法
 ====
 
@@ -51,23 +71,6 @@ DFS/BFS 搜索
 6.  [[03] lengthOfLongestSubstring](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/HashTable/Day22_lengthofLongestSubstring.md)
 7.  [[30] findSubstring](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/HashTable/Day23_30_findSubstring.md)
 8.  [[1590] minSubarray](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/HashTable/Day25_1590_minSubarray.py)
-
-动态规划
-====
-
-1.  [[746] 使用最小花费爬楼梯](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/Day46_746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
-2.  [[03] Longest Substring_Without_Repeating_Characters](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/03_Longest%20Substring_Without_Repeating_Characters.py)
-3.  [[05] longestPalindrome](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/05_longestPalindrome.py)
-4.  [[1014] Best_Sightseeing_Pair](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/1014_Best_Sightseeing_Pair.py)
-5.  [[300] Longest_Increasing_Subsequence](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/300_Longest_Increasing_Subsequence.py)
-6.  [[338] Counting_Bits](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/338_Counting_Bits.py)
-7.  [[42] trapping_rain_water](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/42_trapping_rain_water.py)
-8.  [[474] zeroes_ones](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/474_zeroes_ones.py)
-9.  [[486] predict_the_winner](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/486_predict_the_winner.py)
-10. [[53] Maximum_Subarray](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/53_Maximum_Subarray.py)
-11. [[877] stone_game](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/877_stone_game.py)
-12. [[198] 打家劫舍](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)
-
 
 单链表
 ====
