@@ -114,8 +114,8 @@ DFS/BFS 搜索
 
 字符串
 ====
-
-1.  [[344] reverse_string](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/String/344_reverse_string.py)
-2.  [[415] add_strings](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/String/415_add_strings.py)
+1.  [[989] 数组形式的整数加法](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/Array/989.%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95.md)
+2.  [[344] reverse_string](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/String/344_reverse_string.py)
+3.  [[415] add_strings](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/String/415_add_strings.py)
 
 
