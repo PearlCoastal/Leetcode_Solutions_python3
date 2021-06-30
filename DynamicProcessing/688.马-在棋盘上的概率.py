@@ -8,25 +8,25 @@
 class Solution:
     def knightProbability(self, n: int, k: int, row: int, column: int) -> float:
 
-        probs = [[0 for i in range(n)] for j in range(n)]
-        probs[row][column] = 1
+        dp = [[0 for i in range(n)] for j in range(n)]
+        dp[row][column] = 1
 
         for _ in range(k):
-            nxt = [[0 for i in range(n)] for j in range(n)]
+            temp = [[0 for i in range(n)] for j in range(n)]
 
             for i in range(n):
                 for j in range(n):
-                    if probs[i][j] == 0:
+                    if dp[i][j] == 0:
                         continue
                     
                     for x, y in [(i + 2, j + 1), (i + 2, j - 1), (i - 2, j + 1), (i - 2, j - 1), (i + 1, j + 2), (i - 1, j + 2), (i + 1, j - 2), (i - 1, j - 2)]:
                         if 0 <= x < n and 0 <= y < n:
-                            nxt[x][y] += probs[i][j] / 8
+                            temp[x][y] += dp[i][j] / 8
                 
-            probs = nxt
+            dp = temp
         
         ans = 0 
-        for line in probs:
+        for line in dp:
             ans += sum(line)
         return ans
 
