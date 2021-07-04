@@ -28,7 +28,7 @@ class Solution:
 # @lc code=end
 
 coins = [1, 2, 5]
-amount = 11
+amount = 5
 
 # coins = [2]
 # amount = 3
