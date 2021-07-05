@@ -27,6 +27,11 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库。
 20.  [[53] Maximum_Subarray](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/53_Maximum_Subarray.py)
 21.  [[877] stone_game](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/877_stone_game.py)
 
+贪心算法
+====
+1.  [[455] 分发饼干](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Greedy/455.%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.md)
+2.  [[881] 救生艇](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Greedy/881.%E6%95%91%E7%94%9F%E8%89%87.md)
+
 二分法
 ====
 
