@@ -29,7 +29,7 @@ def printList(head: ListNode) -> [int]:
 
 class Solution:
 
-    '''
+    
     def reverseList(self, head: ListNode) -> ListNode:
 
         if(head.next == None or head == None): return head
