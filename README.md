@@ -1,6 +1,6 @@
-# VSCode_GitOn
+# Leetcode solution note
 
-Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库。
+Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， 大部分的题目有 md 解释代码， 从菜鸟角度解释算法。
 
 动态规划
 ====
