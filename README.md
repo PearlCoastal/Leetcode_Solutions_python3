@@ -18,15 +18,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库。
 11.  [[688] “马”在棋盘上的概率](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/688.%E9%A9%AC-%E5%9C%A8%E6%A3%8B%E7%9B%98%E4%B8%8A%E7%9A%84%E6%A6%82%E7%8E%87.md)
 12.  [[416] 分割等和子集](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
 13.  [[322] 零钱兑换](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
-14.  [[03] Longest Substring_Without_Repeating_Characters](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/03_Longest%20Substring_Without_Repeating_Characters.py)
-15.  [[05] longestPalindrome](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/05_longestPalindrome.py)
-16.  [[1014] Best_Sightseeing_Pair](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/1014_Best_Sightseeing_Pair.py)
-17.  [[338] Counting_Bits](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/338_Counting_Bits.py)
-18.  [[42] trapping_rain_water](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/42_trapping_rain_water.py)
-19.  [[474] zeroes_ones](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/474_zeroes_ones.py)
-20.  [[486] predict_the_winner](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/486_predict_the_winner.py)
-21.  [[53] Maximum_Subarray](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/53_Maximum_Subarray.py)
-22.  [[877] stone_game](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/DynamicProcessing/877_stone_game.py)
+14.  [[96] 不同的二叉搜索树](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/96_%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
 
 贪心算法
 ====
