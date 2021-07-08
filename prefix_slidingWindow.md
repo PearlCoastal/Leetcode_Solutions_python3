@@ -1,10 +1,10 @@
 目录
 ====
->[]()
->[]()
->[]()
->[]()
->[]()
+>[LC. 795 Number of Subarrays with Bounded Maximum](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/prefix_slidingWindow.md#lc-795-number-of-subarrays-with-bounded-maximum)     
+>[LC. 904 Fruit into Baskets](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/prefix_slidingWindow.md#lc-904-fruit-into-baskets)     
+>[LC.992 Subarrays with K Different Integers](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/prefix_slidingWindow.md#lc992-subarrays-with-k-different-integers)     
+>[LC.1109 Corporate Flight Bookings](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/prefix_slidingWindow.md#lc1109-corporate-flight-bookings)       
+>[LC.930 Binary Subarrays with Sum](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/prefix_slidingWindow.md#lc930-binary-subarrays-with-sum)     
 
 
 LC. 795 Number of Subarrays with Bounded Maximum
