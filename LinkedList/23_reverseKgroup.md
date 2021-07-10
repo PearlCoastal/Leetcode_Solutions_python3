@@ -23,7 +23,7 @@ https://leetcode-cn.com/problems/merge-k-sorted-lists/
     输出：[]
 
 > [分治 + 递归](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/23_reverseKgroup.md#%E5%88%86%E6%B2%BB)   
-> [最小堆]()
+> [最小堆](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/23_reverseKgroup.md#%E6%9C%80%E5%B0%8F%E5%A0%86)
 
 分治
 ====
