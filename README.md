@@ -2,6 +2,20 @@
 
 Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， 大部分的题目有 md 解释代码， 从菜鸟角度解释算法。
 
+>[动态规划](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) 
+>[前缀和+滑动窗口 大合集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%89%8D%E7%BC%80%E5%92%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-%E5%A4%A7%E5%90%88%E9%9B%86) 
+>[贪心算法](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95) 
+>[二分法](https://github.com/PearlCoastal/Leetcode_GitOn#%E4%BA%8C%E5%88%86%E6%B3%95) 
+>[滑动窗口](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3) 
+>[DFS/BFS 搜索](https://github.com/PearlCoastal/Leetcode_GitOn#dfsbfs-%E6%90%9C%E7%B4%A2) 
+>[哈希表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%93%88%E5%B8%8C%E8%A1%A8) 
+>[单链表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8D%95%E9%93%BE%E8%A1%A8) 
+>[数组](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%95%B0%E7%BB%84) 
+>[双指针](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8F%8C%E6%8C%87%E9%92%88) 
+>[字符串](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%AD%97%E7%AC%A6%E4%B8%B2) 
+>[设计数据结构]() 
+
+
 动态规划
 ====
 
@@ -31,9 +45,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 
 二分法
 ====
-
 [📒二分法的笔记📒](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/BinarySearch/Note_BinarySearch.md)
-
 1.  [[374] 猜数字大小](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/BinarySearch/374.%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F.py)
 2.  [[81] 搜索旋转排序数组 II](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/BinarySearch/BinarySearch_81.%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84-ii.py)
 3.  [[875] 爱吃香蕉的珂珂](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/BinarySearch/BinarySearch_875.%E7%88%B1%E5%90%83%E9%A6%99%E8%95%89%E7%9A%84%E7%8F%82%E7%8F%82.py)
@@ -49,7 +61,6 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 
 滑动窗口
 ====
-
 [📒滑动窗口📒](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/SlidingWindow/Note_sliding_window.md)
 
 1.  [[1423] 可获得的最大点数](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/SlidingWindow/1423.%E5%8F%AF%E8%8E%B7%E5%BE%97%E7%9A%84%E6%9C%80%E5%A4%A7%E7%82%B9%E6%95%B0.md)
@@ -126,4 +137,7 @@ DFS/BFS 搜索
 2.  [[344] reverse_string](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/String/344_reverse_string.py)
 3.  [[415] add_strings](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/String/415_add_strings.py)
 
-
+设计数据结构
+====
+1. [[232] 用栈实现队列]()
+2. [[225] 用队列实现栈]()
