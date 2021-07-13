@@ -145,6 +145,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 1. [[232] 用栈实现队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/232%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
 2. [[225] 用队列实现栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/225.%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
 3. [面试题 03.01. 三合一](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/0301%E4%B8%89%E5%90%88%E4%B8%80.md)
+4. [[155] 最小栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LC155.md)    
 
 
 📒Trie📒
