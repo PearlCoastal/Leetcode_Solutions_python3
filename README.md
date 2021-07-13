@@ -12,9 +12,9 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[单链表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8D%95%E9%93%BE%E8%A1%A8)    
 >[数组](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%95%B0%E7%BB%84)  
 >[双指针](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8F%8C%E6%8C%87%E9%92%88)  
->[字符串](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%AD%97%E7%AC%A6%E4%B8%B2) 
->[Trie]() 
->[设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)  
+>[字符串](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%AD%97%E7%AC%A6%E4%B8%B2)  
+>[Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#trie)    
+>[设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)      
 
 
 📒动态规划📒
