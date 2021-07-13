@@ -14,7 +14,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[双指针](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8F%8C%E6%8C%87%E9%92%88)  
 >[字符串](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%AD%97%E7%AC%A6%E4%B8%B2)  
 >[Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#trie)    
->[堆]()
+>[堆](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%A0%86)      
 >[设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)      
 
 
@@ -154,4 +154,4 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 📒堆📒
 ====
 1. [[347] Top K](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/TopK.md)
-2. [[LCCI 17.14]](https://github.com/PearlCoastal/Leetcode_GitOn/tree/master/Heap)
+2. [[LCCI 17.14] 最小k个数](https://github.com/PearlCoastal/Leetcode_GitOn/tree/master/Heap)
