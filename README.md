@@ -12,7 +12,8 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[单链表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8D%95%E9%93%BE%E8%A1%A8)    
 >[数组](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%95%B0%E7%BB%84)  
 >[双指针](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8F%8C%E6%8C%87%E9%92%88)  
->[字符串](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%AD%97%E7%AC%A6%E4%B8%B2)  
+>[字符串](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%AD%97%E7%AC%A6%E4%B8%B2) 
+>[Trie]() 
 >[设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)  
 
 
@@ -143,3 +144,8 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 1. [[232] 用栈实现队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/232%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
 2. [[225] 用队列实现栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/225.%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
 3. [面试题 03.01. 三合一](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/0301%E4%B8%89%E5%90%88%E4%B8%80.md)
+
+
+📒Trie📒
+====
+1. [[208] 实现 Trie](https://github.com/PearlCoastal/Leetcode_GitOn/tree/master/Trie)
