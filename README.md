@@ -149,3 +149,8 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 📒Trie📒
 ====
 1. [[208] 实现 Trie](https://github.com/PearlCoastal/Leetcode_GitOn/tree/master/Trie)
+
+📒堆📒
+====
+1. [[347] Top K](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/TopK.md)
+2. [[LCCI 17.14]](https://github.com/PearlCoastal/Leetcode_GitOn/tree/master/Heap)
