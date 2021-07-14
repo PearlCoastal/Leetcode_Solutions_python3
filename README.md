@@ -150,7 +150,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 
 📒Trie📒
 ====
-1. [[208] 实现 Trie](https://github.com/PearlCoastal/Leetcode_GitOn/tree/master/Trie)
+1. [[208] 实现 Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Trie/208_CreateTrie.md)
 
 📒堆📒
 ====
