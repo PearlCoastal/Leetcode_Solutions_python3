@@ -113,7 +113,7 @@ Top K 最小堆解题
 ## 思路
 然后来解这道题， 题目要求出现频率前 k 高的数组元素， 偷了个懒用了 Counter() 求出现频率啦 ⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄ 
 
-建立一个小顶堆， 然后遍历「出现次数数组」 dic：
+利用 heapq 建立一个小顶堆， 然后遍历「出现次数数组」 dic：
 
 - 如果堆的元素个数小于 k，就可以直接插入堆中。
 
@@ -148,3 +148,90 @@ Counter() 遍历数组求出现频率的复杂度 O(N)； k 为最小堆中节�
 
 - 时间复杂度： O（Nlogk）
 - 空间复杂度： O(N)
+
+手写建立最小堆 
+====
+
+建立一个固定大小为 k 的 最小堆。
+
+然后维持堆大小的情况下， 遍历出现频率数组。
+
+呜呜呜呜， 我太厉害了， 我能手写 最小堆了。
+
+。・゜・(ノД`)・゜・。
+
+```python
+import collections
+class Solution:
+    
+    def topKFrequent(self, nums: [int], k: int) -> [int]:
+        dic = collections.Counter(nums)
+        dic = list(dic.items())
+        self.k = k
+        self.h = [(0, 0)]
+
+        for i in range(len(dic)):
+            if len(self.h) < self.k + 1:
+                self.heappush(dic[i])
+            else:
+                if dic[i][1] > self.h[1][1]:
+                    self.heappop()
+                    self.heappush(dic[i])
+        
+        return [x[0] for x in self.h[1:]]
+
+    def heappush(self, a):
+        self.h.append(a)
+        self.shift_up(len(self.h) - 1)
+
+    def heappop(self):
+        if len(self.h) == 1:
+            return None
+        self.h[1] = self.h[(len(self.h) - 1)]
+        self.h.pop()
+        self.shift_down(1)
+        #return pop_node
+
+    def shift_up(self, i):
+        while i // 2 > 0:
+            if self.h[i][1] < self.h[i//2][1]:
+                self.h[i], self.h[i//2] = self.h[i//2], self.h[i]
+            i = i // 2
+
+    def shift_down(self, i):
+        while (i * 2) < self.k:
+            min_child = self.minChild(i)
+            if self.h[i][1] > self.h[min_child][1]:
+                self.h[i], self.h[min_child] = self.h[min_child], self.h[i]
+            i = min_child
+        
+    def minChild(self, i):
+        left_child = i * 2
+        right_child = i * 2 + 1
+        if right_child > len(self.h) - 1:
+            return left_child
+        if self.h[left_child][1] < self.h[right_child][1]:
+            return left_child
+        else:
+            return right_child
+```
+
+## 哈希表
+
+```python
+from collections import defaultdict
+class Solution:
+    def topKFrequent(self, nums: [int], k: int) -> [int]:
+        ans = []
+        dic = defaultdict(int)
+        for i in range(len(nums)):
+            dic[nums[i]] += 1
+        
+        sort_dic = sorted(dic.items(), key = lambda item: item[1], reverse = True)
+        
+        for i in range(k):
+            ans.append(sort_dic[i][0])
+            
+        return ans
+
+```
