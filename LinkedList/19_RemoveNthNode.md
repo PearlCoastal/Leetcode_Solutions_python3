@@ -1,5 +1,9 @@
 LC. 19 Remove Nth Node from End of List
 ====
+
+> [快慢指针](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/19_RemoveNthNode.md#%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88)<br>
+> [栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/19_RemoveNthNode.md#%E6%A0%88)<br>
+
 https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
 
     给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。
