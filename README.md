@@ -98,7 +98,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 📒单链表📒
 ====
 
-1.  [[19] RemoveNthNode](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/19_RemoveNthNode.md)
+1.  [[19] 删除链表的倒数第N个节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/19_RemoveNthNode.md)
 2.  [[141] linkedListCycle](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/141_linkedListCycle.py)
 3.  [[142] linkedListCycleII](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/142_linkedListCycleII.py)
 4.  [[143] reorderList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/143_reorderList.py)
