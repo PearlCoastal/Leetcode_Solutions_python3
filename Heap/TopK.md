@@ -96,8 +96,7 @@ class min_heap:
         if len(self.h) == 1:
             return None
         pop_node = self.h[1]
-        tail_node = self.h[len(self.h) - 1]
-        pop_node = tail_node
+        self.h[1] = self.h[len(self.h) - 1]
         self.h.pop()
         self.shift_down(1)
         return pop_node
@@ -230,8 +229,6 @@ class Solution:
         sort_dic = sorted(dic.items(), key = lambda item: item[1], reverse = True)
         
         for i in range(k):
-            ans.append(sort_dic[i][0])
-            
+            ans.append(sort_dic[i][0]) 
         return ans
-
 ```
