@@ -98,11 +98,11 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 📒单链表📒
 ====
 
-1.  [[141] linkedListCycle](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/141_linkedListCycle.py)
-2.  [[142] linkedListCycleII](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/142_linkedListCycleII.py)
-3.  [[143] reorderList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/143_reorderList.py)
-4.  [[148] sortList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/148_sortList.py)
-5.  [[19] RemoveNthNode](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/19_RemoveNthNode.py)
+1.  [[19] RemoveNthNode](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/19_RemoveNthNode.md)
+2.  [[141] linkedListCycle](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/141_linkedListCycle.py)
+3.  [[142] linkedListCycleII](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/142_linkedListCycleII.py)
+4.  [[143] reorderList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/143_reorderList.py)
+5.  [[148] sortList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/148_sortList.py)
 6.  [[203] removeElement](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/203_removeElement.py)
 7.  [[206] reverseList_doublePtr](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/206_reverseList_doublePtr.py)
 8.  [[21] mergesortedList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/21_%20mergesortedList.py)
