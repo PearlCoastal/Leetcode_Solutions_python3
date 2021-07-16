@@ -21,6 +21,23 @@ class Solution:
             return nums
  
 
+'''
+# 比较好理解的交换
+def quick_sort_by_shift_left(arr, low, high):
+    # 选取最后一个元素作为标志位key，然后将小于key的值前移，最后将标志位放到中间
+    if low >= high:
+        return
+    i = low
+    for j in range(low, high):
+        if arr[j] <= arr[high]:
+            arr[i], arr[j] = arr[j], arr[i]
+            i = i + 1
+    arr[i], arr[high] = arr[high], arr[i]
+    quick_sort_by_shift_left(arr, low, i - 1)
+    quick_sort_by_shift_left(arr, i + 1, high)
+
+'''
+
 nums = [2,3,5,7,1,4,6,15,5,2,7,9,10,15,9,17,12]
 nums = [5, 2, 3, 1]
 nums = [5, 1, 1, 2, 0, 0]
