@@ -16,6 +16,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[字符串](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%AD%97%E7%AC%A6%E4%B8%B2)  
 >[Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#trie)    
 >[堆](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%A0%86)      
+>[并查集]()
 >[设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)      
 
 
@@ -164,3 +165,9 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 ====
 1. [[347] Top K](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/TopK.md)
 2. [[LCCI 17.14] 最小k个数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/LCCI1714.md)
+
+📒并查集📒
+====
+1. [建立并查集](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/create_UF.py)
+2. [[547] 省份数量](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/547.md)
+3. [[924] 减少恶意软件的传播](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/924.%E5%B0%BD%E9%87%8F%E5%87%8F%E5%B0%91%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BC%A0%E6%92%AD.md)
