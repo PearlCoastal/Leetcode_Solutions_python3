@@ -17,7 +17,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#trie)<br>
 >[堆](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%A0%86)<br>
 >[并查集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%B9%B6%E6%9F%A5%E9%9B%86)<br>
->[剪枝](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%89%AA%E6%9E%9D)
+>[剪枝](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%89%AA%E6%9E%9D)<br>
 >[设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)<br>    
 
 
