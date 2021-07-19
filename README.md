@@ -17,6 +17,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#trie)<br>
 >[堆](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%A0%86)<br>
 >[并查集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%B9%B6%E6%9F%A5%E9%9B%86)<br>
+>[剪枝]()
 >[设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)<br>    
 
 
@@ -173,3 +174,6 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 2. [[547] 省份数量](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/547.md)
 3. [[924] 减少恶意软件的传播](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/924.%E5%B0%BD%E9%87%8F%E5%87%8F%E5%B0%91%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BC%A0%E6%92%AD.md)
 4. [[1319] 连通网络的操作次数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/1319.%E8%BF%9E%E9%80%9A%E7%BD%91%E7%BB%9C%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AC%A1%E6%95%B0.md)
+
+📒剪枝📒
+1. [[814] 二叉树剪枝](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/814.md)<br>
