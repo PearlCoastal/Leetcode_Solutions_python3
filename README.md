@@ -49,6 +49,8 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 ====
 1.  [[455] 分发饼干](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Greedy/455.%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.md)
 2.  [[881] 救生艇](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Greedy/881.%E6%95%91%E7%94%9F%E8%89%87.md)
+3.  [[1846] 减小和重新排列数组后的最大元素](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Greedy/1846.md)
+4.  [[1877] 数组中最大数对和的最小值](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Greedy/1877.md)
 
 📒二分法📒
 ====
