@@ -7,7 +7,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[贪心算法](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)<br>
 >[二分法](https://github.com/PearlCoastal/Leetcode_GitOn#%E4%BA%8C%E5%88%86%E6%B3%95)<br>
 >[滑动窗口](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)<br>
->[DFS/BFS 搜索](https://github.com/PearlCoastal/Leetcode_GitOn#dfsbfs-%E6%90%9C%E7%B4%A2)<br>
+>[DFS/BFS 搜索](https://github.com/PearlCoastal/Leetcode_GitOn#dfsbfs-%E6%90%9C%E7%B4%A2-%E5%9B%9E%E6%BA%AF)<br>
 >[哈希表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%93%88%E5%B8%8C%E8%A1%A8)<br>
 >[单链表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8D%95%E9%93%BE%E8%A1%A8)<br>
 >[数组](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%95%B0%E7%BB%84)<br>
