@@ -85,6 +85,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 3.  [[695] 岛屿的最大面积](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/how_DFS%26BFS_work_in_island/695.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.md)
 4.  [[959] 由斜杠划分区域](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/how_DFS%26BFS_work_in_island/not_959.%E7%94%B1%E6%96%9C%E6%9D%A0%E5%88%92%E5%88%86%E5%8C%BA%E5%9F%9F.py)
 5.  [[46][47] 全排列 I II](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/how_DFS%26BFS_work_in_island/%E5%85%A8%E6%8E%92%E5%88%97.md)  
+6.  [[39][40] 组合总和 I II](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/how_DFS%26BFS_work_in_island/%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
 
 📒哈希表📒
 ====
