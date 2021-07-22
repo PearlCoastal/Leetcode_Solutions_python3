@@ -107,19 +107,20 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 ====
 
 1.  [[138] 复制带随机指针的链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/138.md)
-2.  [[19] 删除链表的倒数第N个节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/19_RemoveNthNode.md)
-3.  [[141] linkedListCycle](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/141_linkedListCycle.py)
-4.  [[142] linkedListCycleII](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/142_linkedListCycleII.py)
-5.  [[143] reorderList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/143_reorderList.py)
-6.  [[148] sortList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/148_sortList.py)
-7.  [[203] removeElement](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/203_removeElement.py)
-8.  [[206] reverseList_doublePtr](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/206_reverseList_doublePtr.py)
-9.  [[21] mergesortedList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/21_%20mergesortedList.py)
-10.  [[234] palindrome_slowFast](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/234_palindrome_slowFast.py)
-11.  [[234] palindrome_stack](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/234_palindrome_stack.py)
-12.  [[23] reverseKgroup](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/23_reverseKgroup.py)
-13.  [[328] Odd Even Linked List](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/328_Odd%20Even%20Linked%20List.py)
-14.  [[86] partition](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/86_partition.py)
+2.  [[LCOF.52] 两个链表的第一个公共节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/lcof52.md)
+3.  [[19] 删除链表的倒数第N个节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/19_RemoveNthNode.md)
+4.  [[141] linkedListCycle](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/141_linkedListCycle.py)
+5.  [[142] linkedListCycleII](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/142_linkedListCycleII.py)
+6.  [[143] reorderList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/143_reorderList.py)
+7.  [[148] sortList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/148_sortList.py)
+8.  [[203] removeElement](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/203_removeElement.py)
+9.  [[206] reverseList_doublePtr](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/206_reverseList_doublePtr.py)
+10.  [[21] mergesortedList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/21_%20mergesortedList.py)
+11.  [[234] palindrome_slowFast](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/234_palindrome_slowFast.py)
+12.  [[234] palindrome_stack](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/234_palindrome_stack.py)
+13.  [[23] reverseKgroup](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/23_reverseKgroup.py)
+14.  [[328] Odd Even Linked List](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/328_Odd%20Even%20Linked%20List.py)
+15.  [[86] partition](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/86_partition.py)
 
 📒数组📒
 ====
