@@ -7,7 +7,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[贪心算法](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)<br>
 >[二分法](https://github.com/PearlCoastal/Leetcode_GitOn#%E4%BA%8C%E5%88%86%E6%B3%95)<br>
 >[滑动窗口](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)<br>
->[DFS/BFS 搜索](https://github.com/PearlCoastal/Leetcode_GitOn#dfsbfs-%E6%90%9C%E7%B4%A2-%E5%9B%9E%E6%BA%AF)<br>
+>[DFS/BFS+回溯+剪枝](https://github.com/PearlCoastal/Leetcode_GitOn#dfsbfs-%E6%90%9C%E7%B4%A2-%E5%9B%9E%E6%BA%AF)<br>
 >[哈希表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%93%88%E5%B8%8C%E8%A1%A8)<br>
 >[单链表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8D%95%E9%93%BE%E8%A1%A8)<br>
 >[数组](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%95%B0%E7%BB%84)<br>
@@ -17,7 +17,6 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#trie)<br>
 >[堆](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%A0%86)<br>
 >[并查集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%B9%B6%E6%9F%A5%E9%9B%86)<br>
->[剪枝](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%89%AA%E6%9E%9D)<br>
 >[设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)<br>    
 
 
@@ -79,15 +78,17 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 5.  [[76] 最小覆盖子串](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/SlidingWindow/Day38_76.%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.py)
 6.  [Number of Operations to Decrement Target to Zero](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/SlidingWindow/Day39_Number%20of%20Operations%20to%20Decrement%20Target%20to%20Zero.md)
 
-📒DFS/BFS 搜索 回溯📒
+📒DFS/BFS 回溯 剪枝📒
 ====
 
 1.  [[1162] 地图分析](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/how_DFS%26BFS_work_in_island/1162.%E5%9C%B0%E5%9B%BE%E5%88%86%E6%9E%90.md)
 2.  [[200] 岛屿数量](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/how_DFS%26BFS_work_in_island/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.py)
 3.  [[695] 岛屿的最大面积](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/how_DFS%26BFS_work_in_island/695.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.md)
 4.  [[959] 由斜杠划分区域](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/how_DFS%26BFS_work_in_island/not_959.%E7%94%B1%E6%96%9C%E6%9D%A0%E5%88%92%E5%88%86%E5%8C%BA%E5%9F%9F.py)
-5.  [[46][47] 全排列 I II](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/how_DFS%26BFS_work_in_island/%E5%85%A8%E6%8E%92%E5%88%97.md)  
-6.  [[39][40] 组合总和 I II](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/how_DFS%26BFS_work_in_island/%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
+5.  [[46][47] 全排列 I II](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Backtrack/46%2B47.md)  
+6.  [[39][40] 组合总和 I II](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Backtrack/39%2B40.md)
+7.  [[78][90] 子集 I II](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Backtrack/78%2B90.md)
+8.  [[814] 二叉树剪枝](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/814.md)<br>
 
 📒哈希表📒
 ====
@@ -177,7 +178,3 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 2. [[547] 省份数量](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/547.md)
 3. [[924] 减少恶意软件的传播](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/924.%E5%B0%BD%E9%87%8F%E5%87%8F%E5%B0%91%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BC%A0%E6%92%AD.md)
 4. [[1319] 连通网络的操作次数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/1319.%E8%BF%9E%E9%80%9A%E7%BD%91%E7%BB%9C%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AC%A1%E6%95%B0.md)
-
-📒剪枝📒
-====
-1. [[814] 二叉树剪枝](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/814.md)<br>
