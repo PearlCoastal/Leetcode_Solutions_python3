@@ -147,6 +147,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 5.  [[239] 滑动窗口最大值](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/2Pointers/Day28_239.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.py)
 6.  [[69] x 的平方根](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/2Pointers/Day29_69.x-%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.py)
 7.  [[278] 第一个错误的版本](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/2Pointers/Day30_278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.py)
+8.  [[1893] 检查是否区域内所有整数都被覆盖](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/2Pointers/1893.md)
 
 
 📒字符串📒
