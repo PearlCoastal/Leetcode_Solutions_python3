@@ -2,8 +2,7 @@
 
 Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， 大部分的题目有 md 解释代码， 从菜鸟角度解释算法。
 
-> [剑指Offer]()
-
+> [剑指Offer](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%89%91%E6%8C%87offer)<br>
 >[动态规划](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)<br>
 >[前缀和+滑动窗口 大合集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%89%8D%E7%BC%80%E5%92%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-%E5%A4%A7%E5%90%88%E9%9B%86)<br>
 >[贪心算法](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)<br>
