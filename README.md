@@ -2,6 +2,8 @@
 
 Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， 大部分的题目有 md 解释代码， 从菜鸟角度解释算法。
 
+> [剑指Offer]()
+
 >[动态规划](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)<br>
 >[前缀和+滑动窗口 大合集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%89%8D%E7%BC%80%E5%92%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-%E5%A4%A7%E5%90%88%E9%9B%86)<br>
 >[贪心算法](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)<br>
@@ -182,3 +184,12 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 2. [[547] 省份数量](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/547.md)
 3. [[924] 减少恶意软件的传播](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/924.%E5%B0%BD%E9%87%8F%E5%87%8F%E5%B0%91%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BC%A0%E6%92%AD.md)
 4. [[1319] 连通网络的操作次数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/1319.%E8%BF%9E%E9%80%9A%E7%BD%91%E7%BB%9C%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AC%A1%E6%95%B0.md)
+
+📒剑指offer📒
+====
+1. [剑指 Offer 11. 旋转数组的最小数字](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof11.md)
+2. [剑指 Offer 12. 矩阵中的路径](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof12.md)
+3. [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof52.md)
+4. [剑指 Offer 42. 连续子数组的最大和](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/42.md)
+5. []()
+6. []()
