@@ -103,6 +103,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 7.  [[03] lengthOfLongestSubstring](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/HashTable/Day22_lengthofLongestSubstring.md)
 8.  [[30] findSubstring](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/HashTable/Day23_30_findSubstring.md)
 9.  [[1590] minSubarray](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/HashTable/Day25_1590_minSubarray.py)
+10.  [[1743] 从相邻元素对还原数组](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/HashTable/1743.md)
 
 📒单链表📒
 ====
