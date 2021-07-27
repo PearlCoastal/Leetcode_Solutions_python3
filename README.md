@@ -10,7 +10,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 >[滑动窗口](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)<br>
 >[DFS/BFS+回溯+剪枝](https://github.com/PearlCoastal/Leetcode_GitOn#dfsbfs-%E5%9B%9E%E6%BA%AF-%E5%89%AA%E6%9E%9D)<br>
 >[哈希表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%93%88%E5%B8%8C%E8%A1%A8)<br>
->[单链表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8D%95%E9%93%BE%E8%A1%A8)<br>
+>[链表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8D%95%E9%93%BE%E8%A1%A8)<br>
 >[数组](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%95%B0%E7%BB%84)<br>
 >[二叉树](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E4%BA%8C%E5%8F%89%E6%A0%91)<br>
 >[双指针](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8F%8C%E6%8C%87%E9%92%88)<br>
@@ -109,7 +109,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 ====
 
 1.  [[138] 复制带随机指针的链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/138.md)
-2.  [[LCOF.52] 两个链表的第一个公共节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/lcof52.md)
+2.  [[LCOF.52] 两个链表的第一个公共节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof52.md)
 3.  [[19] 删除链表的倒数第N个节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/19_RemoveNthNode.md)
 4.  [[25] k 个一组反转链表](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/23_reverseKgroup.py)
 5.  [[23] 合并 k 个升序链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/23.md)
