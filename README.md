@@ -139,6 +139,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 ====
 1. [[104] 二叉树的最大深度](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/104.md)
 2. [[513] 找树左下角的值](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/513.md)
+3. [[671] 二叉树中第二小的节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/671.md)
 
 📒双指针📒
 ====
