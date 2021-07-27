@@ -112,7 +112,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 2.  [[LCOF.52] 两个链表的第一个公共节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/lcof52.md)
 3.  [[19] 删除链表的倒数第N个节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/19_RemoveNthNode.md)
 4.  [[25] k 个一组反转链表](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/23_reverseKgroup.py)
-5.  [[23] 合并 k 个升序链表]()
+5.  [[23] 合并 k 个升序链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/23.md)
 6.  [[141] linkedListCycle](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/141_linkedListCycle.py)
 7.  [[142] linkedListCycleII](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/142_linkedListCycleII.py)
 8.  [[143] reorderList](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/143_reorderList.py)
@@ -179,7 +179,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 1. [[347] Top K](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/TopK.md)
 2. [[LCCI 17.14] 最小k个数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/LCCI1714.md)
 3. [[215] 数组中的第K个最大元素](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/215.md)
-4. [[23] 合并 k 个升序链表]()
+4. [[23] 合并 k 个升序链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/23.md)
 
 📒并查集📒
 ====
