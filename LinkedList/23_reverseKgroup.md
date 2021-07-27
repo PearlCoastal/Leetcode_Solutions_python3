@@ -1,4 +1,4 @@
-LC.23 Reverse k group
+LC.25 Reverse k group
 ====
 https://leetcode-cn.com/problems/merge-k-sorted-lists/
 
