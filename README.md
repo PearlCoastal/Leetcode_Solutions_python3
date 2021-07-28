@@ -199,4 +199,4 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 3. [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof52.md)
 4. [剑指 Offer 42. 连续子数组的最大和](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/42.md)
 5. [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-I.md)
-6. []()
+6. [剑指 Offer 26. 树的子结构](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof26.md)
