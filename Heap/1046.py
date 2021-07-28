@@ -46,7 +46,7 @@ class Solution:
             return right_child
 
 
-stones = [10,4,2,10]
+stones = [0,-1]
 
 ob = Solution()
 ans = ob.lastStoneWeight(stones)
