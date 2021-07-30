@@ -184,6 +184,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 3. [[215] 数组中的第K个最大元素](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/215.md)
 4. [[23] 合并 k 个升序链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/23.md)
 5. [[451] 根据字符出现频率排序](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/451.md)
+6. [[1054] 距离相等的条形码](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/1054.md)
 
 📒并查集📒
 ====
