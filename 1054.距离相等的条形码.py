@@ -1,41 +1,10 @@
-LC.1054 距离相等的条形码
-====
-## 题目
-https://leetcode-cn.com/problems/distant-barcodes/
+#
+# @lc app=leetcode.cn id=1054 lang=python3
+#
+# [1054] 距离相等的条形码
+#
 
-在一个仓库里，有一排条形码，其中第 i 个条形码为 barcodes[i]。
-
-请你重新排列这些条形码，使其中两个相邻的条形码 不能 相等。 你可以返回任何满足该要求的答案，此题保证存在答案。
-
-示例 1：
-```
-输入：[1,1,1,2,2,2]
-输出：[2,1,2,1,2,1]
-```
-示例 2：
-```
-输入：[1,1,1,1,2,2,3,3]
-输出：[1,3,1,3,2,1,2,1]
-```
-
-提示：
-
-1 <= barcodes.length <= 10000
-1 <= barcodes[i] <= 10000
-
-## 思路
-用哈希表统计数字出现频率。
-
-按照出现频率构建大顶堆，每次出堆两个频率最高的数，这样相邻的条形码就肯定不会是一样的啦。
-
-为什么构建大顶堆呢？
-
-如果构建的是小顶堆，那按照出现频率排序的条形码很快heap就会为空。
-
-没想到堆除了动态求极值之外还能解决这类问题。✌️
-
-## 代码
-```python
+# @lc code=start
 import collections
 class Solution:
     def rearrangeBarcodes(self, barcodes: [int]) -> [int]:
@@ -95,12 +64,11 @@ class Solution:
             return left_child
         else:
             return right_child
-```
-## 复杂度分析
-- 时间复杂度：O(n + klogk)
 
-    - 哈希表遍历数组 O(n)
-    - 堆的上浮下沉操作 klogk
-n 为数组长度， k 为数组不重复元素个数
+# @lc code=end
 
-- 空间复杂度：O(k)
+barcodes = [1,1,1,1,2,2,3,3]
+ 
+ob = Solution()
+ans = ob.rearrangeBarcodes(barcodes)
+ans
