@@ -174,6 +174,7 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 4. [[155] 最小栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LC155.md) 
 5. [[146] LRU 缓存机制](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/146.md)  
 6. [[641] 设计循环双端队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/641.md) 
+7. [[622] 设计循环队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/622.md)
 
 
 📒Trie📒
