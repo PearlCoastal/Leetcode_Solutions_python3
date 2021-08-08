@@ -1,25 +1,31 @@
-import random
+
 class Solution:
+    def sortArray(self, nums: [int]) -> [int]:
 
-    def quick_sort(self, nums):    
-      
-        if len(nums) >= 2:
+        def partition(left, right):
+            pivot = nums[left]
 
-            mid = nums[len(nums)//2]  
+            while left < right:
+                while left < right and nums[right] >= pivot:
+                    right -= 1
+                nums[left] = nums[right]
+                while left < right and nums[left] <= pivot:
+                    left += 1
+                nums[right] = nums[left]
+            nums[left] = pivot
+            return left
 
-            left, right = [], []
-            
-            nums.remove(mid)
+        def quickSort(left, right):
+            if left >= right:
+                return
+            pivot = partition(left, right)
 
-            for num in nums:            
-                if num >= mid: right.append(num)
+            quickSort(left, pivot - 1)
+            quickSort(pivot + 1, right)
 
-                else: left.append(num)  
+        quickSort(0, len(nums) - 1)
+        return nums
 
-            return self.quick_sort(left) + [mid] + self.quick_sort(right)    
-        else:        
-            return nums
- 
 
 '''
 # 比较好理解的交换
@@ -44,7 +50,7 @@ nums = [5, 1, 1, 2, 0, 0]
 nums = [10, 9, 8, 7, 6, 5, 3, 4, 2, 1]
 
 ob = Solution()
-ans = ob.quick_sort(nums)
+ans = ob.sortArray(nums)
 
 ans
 
