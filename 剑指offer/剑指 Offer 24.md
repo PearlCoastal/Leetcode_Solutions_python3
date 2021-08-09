@@ -7,6 +7,9 @@ https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
 
 ## 题目描述
 
+<img width="652" alt="截屏0003-08-09 21 14 56" src="https://user-images.githubusercontent.com/10908630/128704569-5b4acfae-3726-402b-8188-9a702ef2d30c.png">
+
+
 方法一： 迭代
 ====
 
