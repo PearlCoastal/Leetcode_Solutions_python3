@@ -1,14 +1,14 @@
 剑指 Offer 06. 从尾到头打印链表
 ====
 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
-> [双指针](https://github.com/PearlCoastal/Leetcode_GitOn/new/master/%E5%89%91%E6%8C%87offer#%E5%8F%8C%E6%8C%87%E9%92%88)<br>
-> [回溯](https://github.com/PearlCoastal/Leetcode_GitOn/new/master/%E5%89%91%E6%8C%87offer#%E5%9B%9E%E6%BA%AF)<br>
+> [方法一： 双指针](https://github.com/PearlCoastal/Leetcode_GitOn/new/master/%E5%89%91%E6%8C%87offer#%E5%8F%8C%E6%8C%87%E9%92%88)<br>
+> [方法二： 回溯](https://github.com/PearlCoastal/Leetcode_GitOn/new/master/%E5%89%91%E6%8C%87offer#%E5%9B%9E%E6%BA%AF)<br>
 
 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
 
 <img width="645" alt="截屏0003-08-09 20 26 47" src="https://user-images.githubusercontent.com/10908630/128699645-ebf75904-4026-472c-a000-ea2c6911e37d.png">
 
-双指针
+方法一： 双指针
 ====
 
 ## 思路
@@ -46,7 +46,7 @@ class Solution:
 - 时间复杂度： O(n) 遍历一遍链表 O(n) + O(n/2) 双指针交换节点。
 - 空间复杂度： O(n) 开辟了 ans 数组先保存遍历链表的元素。
 
-回溯
+方法二： 回溯
 ====
 
 ## 思路
