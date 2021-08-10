@@ -1,24 +1,22 @@
-# Leetcode solution note
+Leetcode solution Note 📒 in Python 3
+====
+Leetcode的题目按照 **数据结构｜算法** 分类的题目集合仓库， 大部分的题目有 md 解释代码， 从菜鸟角度解释算法。
 
-Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， 大部分的题目有 md 解释代码， 从菜鸟角度解释算法。
+## 内容列表
 
-> [剑指Offer](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%89%91%E6%8C%87offer)<br>
->[动态规划](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)<br>
->[前缀和+滑动窗口 大合集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%89%8D%E7%BC%80%E5%92%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-%E5%A4%A7%E5%90%88%E9%9B%86)<br>
->[贪心算法](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)<br>
->[二分法](https://github.com/PearlCoastal/Leetcode_GitOn#%E4%BA%8C%E5%88%86%E6%B3%95)<br>
->[滑动窗口](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)<br>
->[DFS/BFS+回溯+剪枝](https://github.com/PearlCoastal/Leetcode_GitOn#dfsbfs-%E5%9B%9E%E6%BA%AF-%E5%89%AA%E6%9E%9D)<br>
->[哈希表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%93%88%E5%B8%8C%E8%A1%A8)<br>
->[链表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8D%95%E9%93%BE%E8%A1%A8)<br>
->[数组](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%95%B0%E7%BB%84)<br>
->[二叉树](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E4%BA%8C%E5%8F%89%E6%A0%91)<br>
->[双指针](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8F%8C%E6%8C%87%E9%92%88)<br>
->[字符串](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%AD%97%E7%AC%A6%E4%B8%B2)<br>
->[Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#trie)<br>
->[堆](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%A0%86)<br>
->[并查集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%B9%B6%E6%9F%A5%E9%9B%86)<br>
->[设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)<br>    
+- [剑指Offer 大合集👊](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%89%91%E6%8C%87offer)<br>
+- [设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)<br>
+ 
+| 数据结构 | 算法 |
+|:---: | :---: |
+| [数组](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%95%B0%E7%BB%84)| [动态规划](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)| [前缀和+滑动窗口 大合集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%89%8D%E7%BC%80%E5%92%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-%E5%A4%A7%E5%90%88%E9%9B%86) |
+| [链表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8D%95%E9%93%BE%E8%A1%A8)| [贪心算法](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95) |
+| [字符串](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%AD%97%E7%AC%A6%E4%B8%B2)| [滑动窗口](https://github.com/PearlCoastal/Leetcode_GitOn#%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)| [二分法](https://github.com/PearlCoastal/Leetcode_GitOn#%E4%BA%8C%E5%88%86%E6%B3%95) |
+| [二叉树](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E4%BA%8C%E5%8F%89%E6%A0%91)|[双指针](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8F%8C%E6%8C%87%E9%92%88) |
+| [哈希表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%93%88%E5%B8%8C%E8%A1%A8)| [DFS/BFS+回溯+剪枝](https://github.com/PearlCoastal/Leetcode_GitOn#dfsbfs-%E5%9B%9E%E6%BA%AF-%E5%89%AA%E6%9E%9D) |
+| [Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#trie)|  |
+| [堆](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%A0%86) |
+| [并查集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%B9%B6%E6%9F%A5%E9%9B%86) | 
 
 
 📒动态规划📒
