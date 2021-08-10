@@ -213,3 +213,4 @@ Leetcode的题目按照 **数据结构/算法** 分类的题目集合仓库， �
 7. [剑指 Offer 06. 从尾到头打印链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2006.md)
 8. [剑指 Offer 24. 反转链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2024.md)
 9. [剑指 Offer 30. 包含min函数的栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/30.md)
+10. [剑指 Offer 35. 复杂链表的复制](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/35.md)
