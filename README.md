@@ -38,6 +38,7 @@ Python 3
 | 10. | [剑指 Offer 35. 复杂链表的复制](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/35.md) |
 | 11. | [剑指 Offer 05. 替换空格](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/05.md) |
 | 12. | [剑指 Offer 58-II. 左旋转字符串](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/58-II.md) |
+| 13. | [剑指 Offer 58-I. 翻转单词顺序](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/58-I.md) |
 
 
 📒动态规划📒
