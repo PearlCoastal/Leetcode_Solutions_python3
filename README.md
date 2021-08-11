@@ -22,6 +22,24 @@ Python 3
 | [堆](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/README.md#%E5%A0%86) |
 | [并查集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%B9%B6%E6%9F%A5%E9%9B%86) | 
 
+📒剑指offer📒
+====
+| 序号 | 题目列表 |
+| :---: | :--- |
+| 1. | [剑指 Offer 11. 旋转数组的最小数字](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof11.md) |
+| 2. | [剑指 Offer 12. 矩阵中的路径](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof12.md) |
+| 3. | [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof52.md) |
+| 4. | [剑指 Offer 42. 连续子数组的最大和](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/42.md) |
+| 5. | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-I.md) |
+| 6. | [剑指 Offer 26. 树的子结构](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof26.md) |
+| 7. | [剑指 Offer 06. 从尾到头打印链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2006.md) |
+| 8. | [剑指 Offer 24. 反转链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2024.md) |
+| 9. | [剑指 Offer 30. 包含min函数的栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/30.md) |
+| 10. | [剑指 Offer 35. 复杂链表的复制](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/35.md) |
+| 11. | [剑指 Offer 05. 替换空格](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/05.md) |
+| 12. | [剑指 Offer 58-II. 左旋转字符串](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/58-II.md) |
+
+
 📒动态规划📒
 ====
 | 序号 | 题目列表 |
@@ -154,11 +172,11 @@ Python 3
 ====
 | 序号 | 题目列表 |
 | :---: | :--- |
-| 1. | [[104] 二叉树的最大深度](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/104.md) |
-| 2. | [[513] 找树左下角的值](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/513.md) |
-| 3. | [[671] 二叉树中第二小的节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/671.md) |
-| 4. | [二叉树遍历合集(递归+迭代)](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/%E9%81%8D%E5%8E%86%E5%A4%A7%E6%B3%95.md) |
-| 5. | [[1008] 前序遍历构造二叉搜索树](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/1008.md) |
+| 1.  | [[104] 二叉树的最大深度](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/104.md) |
+| 2.  | [[513] 找树左下角的值](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/513.md) |
+| 3.  | [[671] 二叉树中第二小的节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/671.md) |
+| 4.  | [二叉树遍历合集(递归+迭代)](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/%E9%81%8D%E5%8E%86%E5%A4%A7%E6%B3%95.md) |
+| 5.  | [[1008] 前序遍历构造二叉搜索树](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/1008.md) |
 
 📒双指针📒
 ====
@@ -188,58 +206,44 @@ Python 3
 ====
 | 序号 | 题目列表 |
 | :---: | :--- |
-| 1. | [[232] 用栈实现队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/232%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md) |
-| 2. | [[225] 用队列实现栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/225.%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md) |
-| 3. | [面试题 03.01. 三合一](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/0301%E4%B8%89%E5%90%88%E4%B8%80.md) |
-| 4. | [[155] 最小栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LC155.md)  |
-| 5. | [[146] LRU 缓存机制](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/146.md)   |
-| 6. | [[641] 设计循环双端队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/641.md)  |
-| 7. | [[622] 设计循环队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/622.md) |
+| 1.  | [[232] 用栈实现队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/232%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md) |
+| 2.  | [[225] 用队列实现栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/225.%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md) |
+| 3.  | [面试题 03.01. 三合一](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/0301%E4%B8%89%E5%90%88%E4%B8%80.md) |
+| 4.  | [[155] 最小栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LC155.md)  |
+| 5.  | [[146] LRU 缓存机制](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/146.md)   |
+| 6.  | [[641] 设计循环双端队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/641.md)  |
+| 7.  | [[622] 设计循环队列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/622.md) |
 
 
 📒Trie📒
 ====
 | 序号 | 题目列表 |
 | :---: | :--- |
-| 1. | [[208] 实现 Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Trie/208_CreateTrie.md) |
-| 2. | [[677] 键值映射](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Trie/677.md) |
+| 1.  | [[208] 实现 Trie](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Trie/208_CreateTrie.md) |
+| 2.  | [[677] 键值映射](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Trie/677.md) |
 
 📒堆📒
 ====
 | 序号 | 题目列表 |
 | :---: | :--- |
-| 1. | [[347] Top K](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/TopK.md) |
-| 2. | [[LCCI 17.14] 最小k个数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/LCCI1714.md) |
-| 3. | [[215] 数组中的第K个最大元素](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/215.md) |
-| 4. | [[23] 合并 k 个升序链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/23.md) |
-| 5. | [[451] 根据字符出现频率排序](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/451.md) |
-| 6. | [[1054] 距离相等的条形码](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/1054.md) |
-| 7. | [[1337] 矩阵中战斗力最弱的 k 行](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/1337.md) |
-| 8. | [[313] 超级丑数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/313.md) |
-| 9. | [[264] 丑数 II](https://github.com/PearlCoastal/Leetcode_GitOn/edit/master/Heap/264.md) |
+| 1.  | [[347] Top K](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/TopK.md) |
+| 2.  | [[LCCI 17.14] 最小k个数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/LCCI1714.md) |
+| 3.  | [[215] 数组中的第K个最大元素](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/215.md) |
+| 4.  | [[23] 合并 k 个升序链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/LinkedList/23.md) |
+| 5.  | [[451] 根据字符出现频率排序](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/451.md) |
+| 6.  | [[1054] 距离相等的条形码](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/1054.md) |
+| 7.  | [[1337] 矩阵中战斗力最弱的 k 行](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/1337.md) |
+| 8.  | [[313] 超级丑数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Heap/313.md) |
+| 9.  | [[264] 丑数 II](https://github.com/PearlCoastal/Leetcode_GitOn/edit/master/Heap/264.md) |
 
 📒并查集📒
 ====
 
 | 序号 | 题目列表 |
 | :---: | :--- |
-| 1. | [建立并查集](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/create_UF.py) |
-| 2. | [[547] 省份数量](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/547.md) |
-| 3. | [[924] 减少恶意软件的传播](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/924.%E5%B0%BD%E9%87%8F%E5%87%8F%E5%B0%91%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BC%A0%E6%92%AD.md) |
-| 4. | [[1319] 连通网络的操作次数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/1319.%E8%BF%9E%E9%80%9A%E7%BD%91%E7%BB%9C%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AC%A1%E6%95%B0.md) |
+| 1.  | [建立并查集](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/create_UF.py) |
+| 2.  | [[547] 省份数量](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/547.md) |
+| 3.  | [[924] 减少恶意软件的传播](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/924.%E5%B0%BD%E9%87%8F%E5%87%8F%E5%B0%91%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BC%A0%E6%92%AD.md) |
+| 4.  | [[1319] 连通网络的操作次数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Union-find%20Algorithm/1319.%E8%BF%9E%E9%80%9A%E7%BD%91%E7%BB%9C%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AC%A1%E6%95%B0.md) |
 
-📒剑指offer📒
-====
-| 序号 | 题目列表 |
-| :---: | :--- |
-| 1. | [剑指 Offer 11. 旋转数组的最小数字](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof11.md) |
-| 2. | [剑指 Offer 12. 矩阵中的路径](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof12.md) |
-| 3. | [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof52.md) |
-| 4. | [剑指 Offer 42. 连续子数组的最大和](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/42.md) |
-| 5. | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-I.md) |
-| 6. | [剑指 Offer 26. 树的子结构](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/lcof26.md) |
-| 7. | [剑指 Offer 06. 从尾到头打印链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2006.md) |
-| 8. | [剑指 Offer 24. 反转链表](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2024.md) |
-| 9. | [剑指 Offer 30. 包含min函数的栈](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/30.md) |
-| 10. | [剑指 Offer 35. 复杂链表的复制](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/35.md) |
-| 11. | [剑指 Offer 05. 替换空格](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/05.md) |
+
