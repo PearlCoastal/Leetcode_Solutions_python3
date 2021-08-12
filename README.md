@@ -63,12 +63,14 @@ Python 3
 | 16.  | [[124] 二叉树的最大路径和](https://github.com/PearlCoastal/Leetcode_GitOn/tree/master/DynamicProcessing#:~:text=12%20days%20ago-,124.md,-Create%20124.md) |
 | 17.  | [[1137] 第 N 个泰波那契数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/1137.md) |
 | 18.  | [[446] 等差数列划分 II - 子序列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/446.md) |
+| 19.  | [[413] 等差数列划分](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/413.md) |
 
 📒前缀和+滑动窗口 大合集📒
 ====
 | 序号 | 题目列表 |
 | :---: | :--- |
-| 1. | [sliding window is sliding](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/prefix_slidingWindow.md) |
+| 1.  | [sliding window is sliding](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/prefix_slidingWindow.md) |
+| 2.  | [[413] 等差数列划分](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/413.md) |
 
 📒贪心算法📒
 ====
