@@ -39,6 +39,9 @@ Python 3
 | 11. | [剑指 Offer 05. 替换空格](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/05.md) |
 | 12. | [剑指 Offer 58-II. 左旋转字符串](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/58-II.md) |
 | 13. | [剑指 Offer 58-I. 翻转单词顺序](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/58-I.md) |
+| 14. | [剑指 Offer 03. 数组中重复的数字](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/03.md) |
+| 15. | [剑指 Offer 53-I. 在排序数组中查找数字 I](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-I.md) |
+| 16. | [剑指 Offer 53-II. 0～n-1中缺失的数字](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-II.md) |
 
 
 📒动态规划📒
