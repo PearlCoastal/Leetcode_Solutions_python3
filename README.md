@@ -67,7 +67,7 @@ Python 3
 | 17.  | [[1137] 第 N 个泰波那契数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/1137.md) |
 | 18.  | [[446] 等差数列划分 II - 子序列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/446.md) |
 | 19.  | [[413] 等差数列划分](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/413.md) |
-
+| 20.  | [[516] 最长回文子序列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/516.md) |
 📒前缀和+滑动窗口 大合集📒
 ====
 | 序号 | 题目列表 |
