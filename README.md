@@ -69,7 +69,12 @@ Python 3
 ====
 | 序号 | 题目列表 |
 | :---: | :--- |
-| 1.  | [sliding window is sliding](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/prefix_slidingWindow.md) |
+| 1.  | [[795] 区间子数组个数](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/SlidingWindow/795.md) |
+| 2.  | [[904] 水果成篮] (https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/SlidingWindow/904.md) |
+| 3.  | [[992] K 个不同整数的子数组](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/SlidingWindow/992.md) |
+| 4.  | [[1109] 航班预订统计](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/SlidingWindow/1109.md) |
+| 5.  | [[930] 和相同的二元子数组](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/SlidingWindow/930.md) |
+
 
 
 📒贪心算法📒
