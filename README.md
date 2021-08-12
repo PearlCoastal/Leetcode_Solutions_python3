@@ -70,7 +70,7 @@ Python 3
 | 序号 | 题目列表 |
 | :---: | :--- |
 | 1.  | [sliding window is sliding](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/prefix_slidingWindow.md) |
-| 2.  | [[413] 等差数列划分](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/413.md) |
+
 
 📒贪心算法📒
 ====
@@ -107,7 +107,7 @@ Python 3
 | 3.  | [[837] 新-21-点](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/SlidingWindow/Day36_837.%E6%96%B0-21-%E7%82%B9.md) |
 | 4.  | [[438] 找到字符串中所有字母异位词](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/SlidingWindow/Day37_438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md) |
 | 5.  | [[76] 最小覆盖子串](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/SlidingWindow/Day38_76.%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.py) |
-| 6.  | [Number of Operations to Decrement Target to Zero](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/SlidingWindow/Day39_Number%20of%20Operations%20to%20Decrement%20Target%20to%20Zero.md) |
+| 6.  | [[413] 等差数列划分](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/413.md) |
 
 📒DFS/BFS 回溯 剪枝📒
 ====
