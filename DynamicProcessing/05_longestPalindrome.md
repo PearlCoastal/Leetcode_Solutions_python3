@@ -3,6 +3,8 @@ LC.5 最长回文子串
 https://leetcode-cn.com/problems/longest-palindromic-substring/
 
 ## 题目描述
+<img width="563" alt="截屏0003-08-13 16 41 49" src="https://user-images.githubusercontent.com/10908630/129323119-847d40e5-8c2a-4322-87eb-fffd689966bd.png">
+
 
 ## 思路
 
