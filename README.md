@@ -44,6 +44,9 @@ Python 3
 | 14. | [剑指 Offer 03. 数组中重复的数字](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/03.md) |
 | 15. | [剑指 Offer 53-I. 在排序数组中查找数字 I](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-I.md) |
 | 16. | [剑指 Offer 53-II. 0～n-1中缺失的数字](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-II.md) |
+| 17. | [剑指 Offer 04. 二维数组中的查找](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/04.md) |
+| 18. | [剑指 Offer 11. 旋转数组的最小数字](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/11.md)|
+| 19. | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/50.md)|
 
 
 📒动态规划📒
