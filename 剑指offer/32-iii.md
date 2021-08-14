@@ -23,11 +23,17 @@ https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
    用来暂时保存当前层节点值的 level 列表
    
    - 偶数层： 新的值加入不从尾部加入， 采用头插法就可以实现从右往左输出了。
-   
+
+     level 如果定义成列表的话， 采用头插 level.insert(0, cur.val) 时间复杂度是 O(n).
+     
+     虽然题目可以通过 O(n^2) 的时间复杂度。 但是看到 @kragets 大神用双端队列解决了这个问题。
+     
+     level 定义为双端队列的话， level.appendleft(cur.val) 可以实现 O(1) 的时间复杂度解决元素插入问题。
+     
+     我和大神的差距...
+    
    - 奇数层： 就还照样 append 从尾部插入就可以了。
    
-
-
 ## 代码
 ```python
 # Definition for a binary tree node.
