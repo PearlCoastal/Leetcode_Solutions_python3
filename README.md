@@ -47,7 +47,9 @@ Python 3
 | 17. | [剑指 Offer 04. 二维数组中的查找](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/04.md) |
 | 18. | [剑指 Offer 11. 旋转数组的最小数字](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/11.md)|
 | 19. | [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/50.md)|
-
+| 20. | [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/32-i.md) |
+| 21. | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/32-ii.md) |
+| 22. | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/32-iii.md) |
 
 📒动态规划📒
 ====
