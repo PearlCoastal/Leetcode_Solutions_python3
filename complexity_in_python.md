@@ -53,13 +53,16 @@ deque 的两端都是可达的， 但查找队列中间元素时较慢， 增删
 | len() | O(1) |
 | key in dic | O(1) |
 
-### Question 1. 列表 sort() 时间复杂度是 O(nlogn)
+关于 Python 的一些小问题
+====
+
+## Question 1. 列表 sort() 时间复杂度是 O(nlogn)
 
 Python 中的 sorted() 排序内部实现是 Timsort.
 
 讲解的话， 看这篇笔记就可以了📒 👉 [Python sort函数内部实现原理](https://www.cnblogs.com/clement-jiao/p/9243066.html)
 
-### Question 2. python 的多线程为什么被称为伪多线程
+## Question 2. python 的多线程为什么被称为伪多线程
 
 知乎的这位答主回答的挺好， 起码我看懂了一点点。 👉 [为什么有人说 Python 的多线程是鸡肋呢？ - DarrenChan陈驰的回答 - 知乎]
 (https://www.zhihu.com/question/23474039/answer/269526476)
@@ -83,7 +86,7 @@ Python 解释器可以运行多个线程， 但是只有一个线程在解释器
 5. 解锁 GIL。
 6. 开启新的一轮循环， 重复 1-5 。
 
-### Python 中 "is" "==" 的区别
+## Question 3. Python 中 "is" "==" 的区别
 
 Python 中对象包含的三个基本要素： 
 
@@ -94,7 +97,7 @@ Python 中对象包含的三个基本要素：
 - is 比较的是 id
 - == 比较的是 value
 
-### *args, **kwargs 的作用是什么， 如何使用
+## Question 4. *args, **kwargs 的作用是什么， 如何使用
 
 *args 和 **kwargs 通常使用在函数定义里。
 
@@ -103,7 +106,7 @@ Python 中对象包含的三个基本要素：
 - *args 用来将参数打包成 tuple 给函数体调用。
 - **kwargs 打包成 dic 给函数体调用。
 
-### lambda函数
+## Question 5. lambda函数
 
 lambda() 是匿名函数，使用 lambda函数 省略了用 def 声明函数的标准步骤。
 
@@ -123,7 +126,7 @@ lambda() 是匿名函数，使用 lambda函数 省略了用 def 声明函数的�
 举个🌰：
     1. copy 模块的 deep.deepcopy()
 
-### 多线程 和 多进程
+## Question 6. 多线程 和 多进程
 
 进程在执行过程中拥有独立的内存单元， 进程下的多个线程可并发执行、共享同一个进程的内存， 从而提高了程序的运行效率。
 
@@ -133,7 +136,7 @@ lambda() 是匿名函数，使用 lambda函数 省略了用 def 声明函数的�
 
 进程的执行开销大， 但是有利于资源的保护和管理。
 
-### 随机生成一个数
+## Question 7. 随机生成一个数
 ```python
 
 import random
@@ -141,7 +144,7 @@ print(random.random()) # 0-1 的数
 print(random.randint(1, 100)) # 1-100 以内的整数
 
 ```
-### 函数式编程
+## Question 8. 函数式编程
 
 函数式编程的定义： 允许将函数作为参数进行传递，还允许返回一个函数。
 
