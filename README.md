@@ -52,6 +52,7 @@ Python 3
 | 20. | [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/32-i.md) |
 | 21. | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/32-ii.md) |
 | 22. | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/32-iii.md) |
+| 23. | [剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/59-i.md) |
 
 📒动态规划📒
 ====
