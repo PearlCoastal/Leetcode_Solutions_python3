@@ -4,7 +4,7 @@ https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
 
 > [方法一： 双指针](https://github.com/PearlCoastal/Leetcode_GitOn/new/master/%E5%89%91%E6%8C%87offer#%E5%8F%8C%E6%8C%87%E9%92%88)<br>
 > [方法二： 递归](https://github.com/PearlCoastal/Leetcode_GitOn/new/master/%E5%89%91%E6%8C%87offer#%E5%9B%9E%E6%BA%AF)<br>
-> [方法三： 辅助栈]()
+> [方法三： 辅助栈](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2006.md#%E6%96%B9%E6%B3%95%E4%B8%89-%E8%BE%85%E5%8A%A9%E6%A0%88)
 
 ## 题目描述
 
