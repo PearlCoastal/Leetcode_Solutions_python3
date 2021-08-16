@@ -144,6 +144,7 @@ Python 3
 | 6.  | [[39][40] 组合总和 I II](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Backtrack/39%2B40.md) |
 | 7.  | [[78][90] 子集 I II](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Backtrack/78%2B90.md) |
 | 8.  | [[814] 二叉树剪枝](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/814.md) |
+| 9. | [[526] 优美的排列 题解还没写完⚠️](https://github.com/PearlCoastal/Leetcode_Solutions_python3/tree/master/Backtrack) |
 
 📒哈希表📒
 ====
