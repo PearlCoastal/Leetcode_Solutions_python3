@@ -24,7 +24,7 @@ Python 3
 | [哈希表](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%93%88%E5%B8%8C%E8%A1%A8)| [DFS/BFS+回溯+剪枝](https://github.com/PearlCoastal/Leetcode_GitOn#dfsbfs-%E5%9B%9E%E6%BA%AF-%E5%89%AA%E6%9E%9D) |
 | [Trie](https://github.com/PearlCoastal/Leetcode_GitOn#trie)|[双指针](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%8F%8C%E6%8C%87%E9%92%88) |
 | [堆](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%A0%86)|  [二分法](https://github.com/PearlCoastal/Leetcode_GitOn#%E4%BA%8C%E5%88%86%E6%B3%95) |
-| [并查集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%B9%B6%E6%9F%A5%E9%9B%86) | [模拟]() |
+| [并查集](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%B9%B6%E6%9F%A5%E9%9B%86) | [模拟](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/README.md#%E6%A8%A1%E6%8B%9F) |
 
 📒剑指offer📒
 ====
