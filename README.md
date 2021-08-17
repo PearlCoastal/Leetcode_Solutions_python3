@@ -58,6 +58,7 @@ Python 3
 | 26. | [剑指 Offer 10-I. 斐波那契数列](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/10-I.md) |
 | 27. | [剑指 Offer 10-II. 青蛙跳台阶问题](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/10-II.md) |
 | 28. | [剑指 Offer 63. 股票的最大利润](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/63.md) |
+| 29. | [剑指 Offer 47. 礼物的最大价值](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/47.md) |
 
 
 📒动态规划📒
