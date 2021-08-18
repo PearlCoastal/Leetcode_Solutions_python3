@@ -64,8 +64,7 @@ Python 中的 sorted() 排序内部实现是 Timsort.
 
 ## Question 2. python 的多线程为什么被称为伪多线程
 
-知乎的这位答主回答的挺好， 起码我看懂了一点点。 👉 [为什么有人说 Python 的多线程是鸡肋呢？ - DarrenChan陈驰的回答 - 知乎]
-(https://www.zhihu.com/question/23474039/answer/269526476)
+知乎的这位答主回答的挺好， 起码我看懂了一点点。 👉 [为什么有人说 Python 的多线程是鸡肋呢？ - DarrenChan 陈驰的回答 - 知乎](https://www.zhihu.com/question/23474039/answer/269526476)
 
 以下为个人笔记。
 
