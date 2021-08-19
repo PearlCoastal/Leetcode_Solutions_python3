@@ -90,7 +90,7 @@ Python 3
 | 19.  | [[413] 等差数列划分](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/413.md) |
 | 20.  | [[516] 最长回文子序列](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/DynamicProcessing/516.md) |
 | 21.  | [[05] 最长回文子串](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/DynamicProcessing/05_longestPalindrome.md) |
-
+| 22.  | [[279] 完全平方数](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/DynamicProcessing/279.md) |
 
 📒前缀和+滑动窗口 大合集📒
 ====
