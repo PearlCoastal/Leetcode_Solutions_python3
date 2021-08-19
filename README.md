@@ -61,6 +61,8 @@ Python 3
 | 29. | [剑指 Offer 47. 礼物的最大价值](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/47.md) |
 | 30. | [剑指 Offer 46. 把数字翻译成字符串](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/46.md) |
 | 31. | [剑指 Offer 48. 最长不含重复字符的子字符串](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/48.md) |
+| 32. | [剑指 Offer 18. 删除链表的节点](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/18.md) |
+| 33. | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/22.md) |
 
 
 📒动态规划📒
