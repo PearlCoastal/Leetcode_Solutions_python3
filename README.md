@@ -155,6 +155,7 @@ Python 3
 | 8.  | [[814] 二叉树剪枝](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Binary%20Tree/814.md) |
 | 9.  | [[526] 优美的排列 题解还没写完⚠️](https://github.com/PearlCoastal/Leetcode_Solutions_python3/tree/master/Backtrack) |
 | 10. | [[662] 二叉树最大宽度](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/how_DFS%26BFS_work_in_island/662.md) |
+| 11. | [[279] 完全平方数](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/DynamicProcessing/279.md) |
 
 📒哈希表📒
 ====
