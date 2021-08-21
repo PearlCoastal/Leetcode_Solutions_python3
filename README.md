@@ -63,6 +63,8 @@ Python 3
 | 31. | [剑指 Offer 48. 最长不含重复字符的子字符串](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/48.md) |
 | 32. | [剑指 Offer 18. 删除链表的节点](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/18.md) |
 | 33. | [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/22.md) |
+| 34. | [剑指 Offer 57. 和为s的两个数字](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/57.md) |
+| 35. | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/21.md) |
 
 
 📒动态规划📒
