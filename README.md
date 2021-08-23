@@ -50,7 +50,9 @@ Python 3
 | 32-I. | [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/32-i.md) |
 | 32-II. | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/32-ii.md) |
 | 32-III. | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/32-iii.md) |
+| 34. | [剑指 Offer 34. 二叉树中和为某一值的路径](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/34.md) |
 | 35. | [剑指 Offer 35. 复杂链表的复制](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/35.md) |
+| 36. | [剑指 Offer 36. 二叉搜索树与双向链表](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/36.md) |
 | 42.  | [剑指 Offer 42. 连续子数组的最大和](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/42.md) |
 | 46. | [剑指 Offer 46. 把数字翻译成字符串](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/46.md) |
 | 47. | [剑指 Offer 47. 礼物的最大价值](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/47.md) |
@@ -60,6 +62,7 @@ Python 3
 | 53-I.  | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-I.md) |
 | 53-I. | [剑指 Offer 53-I. 在排序数组中查找数字 I](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-I.md) |
 | 53-II. | [剑指 Offer 53-II. 0～n-1中缺失的数字](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/53-II.md) |
+| 54. | [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/54.md) |
 | 57. | [剑指 Offer 57. 和为s的两个数字](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/57.md) |
 | 58-I. | [剑指 Offer 58-I. 翻转单词顺序](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/58-I.md) |
 | 58-II. | [剑指 Offer 58-II. 左旋转字符串](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/58-II.md) |
