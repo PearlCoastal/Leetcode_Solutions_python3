@@ -68,8 +68,8 @@ Python 3
 | 58-II. | [剑指 Offer 58-II. 左旋转字符串](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/58-II.md) |
 | 59-I. | [剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/59-i.md) |
 | 63. | [剑指 Offer 63. 股票的最大利润](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/63.md) |
-
-
+| 45. | [剑指 Offer 45. 把数组排成最小的数](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/45.md) |
+| 61. | [剑指 Offer 61. 扑克牌中的顺子](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/61.md) |
 
 
 
