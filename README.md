@@ -29,7 +29,7 @@ Python 3
 📒剑指offer📒
 ====
 | 序号 | 题目列表 |
-| :---: | :--- |
+| :--- | :--- |
 | 3. | [剑指 Offer 03. 数组中重复的数字](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/03.md) |
 | 4. | [剑指 Offer 04. 二维数组中的查找](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/04.md) |
 | 5. | [剑指 Offer 05. 替换空格](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/%E5%89%91%E6%8C%87offer/05.md) |
@@ -70,6 +70,11 @@ Python 3
 | 63. | [剑指 Offer 63. 股票的最大利润](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/63.md) |
 | 45. | [剑指 Offer 45. 把数组排成最小的数](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/45.md) |
 | 61. | [剑指 Offer 61. 扑克牌中的顺子](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/61.md) |
+| 40. | [剑指 Offer 40. 最小的k个数](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/40.md) |
+| 41. | [剑指 Offer 41. 数据流中的中位数](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/41.md) |
+| 55-I. | [剑指 Offer 55 - I. 二叉树的深度](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/55-I.md) |
+| 55-II. | [剑指 Offer 55 - II. 平衡二叉树](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/55-II.md) |
+| 64. | [剑指 Offer 64. 求1+2+…+n](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/64.md) |
 
 
 
