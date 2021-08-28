@@ -75,6 +75,8 @@ Python 3
 | 55-I. | [剑指 Offer 55 - I. 二叉树的深度](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/55-I.md) |
 | 55-II. | [剑指 Offer 55 - II. 平衡二叉树](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/55-II.md) |
 | 64. | [剑指 Offer 64. 求1+2+…+n](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/64.md) |
+| 68-I | [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/68-i.md) |
+| 68-II | [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/68-ii.md) |
 
 
 
