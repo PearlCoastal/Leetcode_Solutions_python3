@@ -10,10 +10,11 @@ Python 3
 
 ## 内容列表
 
-- [剑指Offer 大合集👊](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%89%91%E6%8C%87offer)<br>
-- [设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)<br>
-- [Python 内置方法的时间复杂度合集👊](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/complexity_in_python.md)<br>
-- [关于 Python 的一些小问题](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/complexity_in_python.md#%E5%85%B3%E4%BA%8E-python-%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E9%97%AE%E9%A2%98)<br>
+- 👉 [剑指Offer 大合集👊](https://github.com/PearlCoastal/Leetcode_GitOn#%E5%89%91%E6%8C%87offer)<br>
+- 👉 [设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)<br>
+- 👉 [Python 内置方法的时间复杂度合集👊](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/complexity_in_python.md)<br>
+- 👉 [关于 Python 的一些小问题](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/complexity_in_python.md#%E5%85%B3%E4%BA%8E-python-%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E9%97%AE%E9%A2%98)<br>
+- 👉 [Python 字典方法详解篇](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/56-i.md)
  
 | 数据结构 | 算法 |
 |:---: | :---: |
@@ -79,7 +80,8 @@ Python 3
 | 68-II. | [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/68-ii.md) |
 | 7. | [剑指 Offer 07. 重建二叉树](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/07.md) |
 | 16. | [剑指 Offer 16. 数值的整数次方](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/16.md) |
-
+| 56-I. | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/56-i.md) |
+| 56-II. | [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/56-II.md) |
 
 
 📒动态规划📒
