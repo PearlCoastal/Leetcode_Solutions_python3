@@ -14,7 +14,7 @@ Python 3
 - 👉 [设计数据结构](https://github.com/PearlCoastal/Leetcode_GitOn#%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)<br>
 - 👉 [Python 内置方法的时间复杂度合集👊](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/complexity_in_python.md)<br>
 - 👉 [关于 Python 的一些小问题](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/complexity_in_python.md#%E5%85%B3%E4%BA%8E-python-%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E9%97%AE%E9%A2%98)<br>
-- 👉 [Python 字典方法详解篇](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/56-i.md)
+- 👉 [Python 字典方法详解篇](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/56-i.md#python-%E5%AD%97%E5%85%B8%E5%86%85%E7%BD%AE%E6%96%B9%E6%B3%95%E8%AF%A6%E8%A7%A3)
  
 | 数据结构 | 算法 |
 |:---: | :---: |
