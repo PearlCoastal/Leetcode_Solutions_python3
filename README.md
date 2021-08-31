@@ -82,6 +82,7 @@ Python 3
 | 16. | [剑指 Offer 16. 数值的整数次方](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/16.md) |
 | 56-I. | [剑指 Offer 56 - I. 数组中数字出现的次数](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/56-i.md) |
 | 56-II. | [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/56-II.md) |
+| 39. | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/39.md) |
 
 
 📒动态规划📒
