@@ -86,7 +86,7 @@ Python 3
 | 31. | [剑指 Offer 31. 栈的压入、弹出序列](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/31.md) |
 | 29. | [剑指 Offer 29. 顺时针打印矩阵](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/29.md) |
 
-
+ 
 📒动态规划📒
 ====
 | 序号 | 题目列表 |
