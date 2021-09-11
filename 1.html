@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html>
+
+<body>
+    
+    <label for="username">用户名</label>
+    <input type="text" name="username" id="username" onblur="checkUserName()" placeholder="请输入4-8位字符">
+    <span id="usernameMsg"></span><br>
+    <label for="password1">密码</label>
+    <input type="password" name="password1" id="password1" placeholder="请输入密码"><br>
+    <label for="password2">确认密码</label>
+    <input type="password" name="password2" id="password2" placeholder="请输入确认密码" onblur="checkPassword()">
+    <span id="passwordMsg"></span><br>
+    <label for="age">年龄</label>
+    <input type="number" name="age" id="age" placeholder="请输入年龄(0-120)" onblur="checkAge()">
+    <span id="ageMsg"></span>
+    <script>
+        function checkUserName() {
+            let name = document.getElementById("username").value;
+            if (name.length < 4 || name.length > 8) {
+                document.getElementById("usernameMsg").innerText = '请输入4-8位字符';
+            } else {
+                document.getElementById("usernameMsg").innerText = '';
+            }
+        }
+        function checkPassword() {
+            let pw1 = document.getElementById("password1").value;
+            let pw2 = document.getElementById("password2").value;
+            if (pw1 != pw2) {
+                document.getElementById("passwordMsg").innerText = '密码与确认密码不一致';
+            } else {
+                document.getElementById("passwordMsg").innerText = '';
+            }
+        }
+        function checkAge() {
+            let age = document.getElementById("age").value;
+            if (age < 0 || age > 120) {
+                document.getElementById("ageMsg").innerText = '请输入合理的年龄';
+            } else {
+                document.getElementById("ageMsg").innerText = '';
+            }
+        }
+    </script>
+</body>
+
+</html>
