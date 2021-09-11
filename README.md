@@ -263,6 +263,7 @@ Python 3
 | 3.  | [[415] add_strings](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/String/415_add_strings.py) |
 | 4.  | [[1736] 替换隐藏数字得到的最晚时间](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/String/1736.md) |
 | 5.  | [[171][168] Excel 表列 进制转换](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/String/168%2B171.md) |
+| 6.  | [[821] 字符的最短距离](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/String/821.md) |
 
 📒设计数据结构📒
 ====
