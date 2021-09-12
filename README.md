@@ -317,3 +317,4 @@ Python 3
 | 1.  | [551. 学生出勤记录 I](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/String/551.md) |
 | 2.  | [[541] 反转字符串 II](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/String/541.md) |
 | 3.  | [[1646] 获取生成数组中的最大值](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/Array/1646.md) |
+| 4.  | [[1381] 设计一个支持增量操作的栈](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/String/1381.md) |
