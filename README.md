@@ -134,6 +134,7 @@ Python 3
 | 2.  | [[881] 救生艇](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Greedy/881.%E6%95%91%E7%94%9F%E8%89%87.md) |
 | 3.  | [[1846] 减小和重新排列数组后的最大元素](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Greedy/1846.md) |
 | 4.  | [[1877] 数组中最大数对和的最小值](https://github.com/PearlCoastal/Leetcode_GitOn/blob/master/Greedy/1877.md) |
+| 5.  | [[768] 最多能完成排序的块 II](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/Greedy/768.md) |
 
 📒二分法📒
 ====
