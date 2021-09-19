@@ -217,6 +217,7 @@ Python 3
 | 15.  | [[234] palindrome_stack](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/234_palindrome_stack.py) |
 | 16.  | [[328] Odd Even Linked List](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/328_Odd%20Even%20Linked%20List.py) |
 | 17.  | [[86] partition](https://github.com/PearlCoastal/VSCode_GitOn/blob/master/LinkedList/86_partition.py) |
+| 18.  | [[160] 相交节点](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/LinkedList/160.md) |
 
 📒数组📒
 ====
