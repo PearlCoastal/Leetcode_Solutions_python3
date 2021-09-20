@@ -38,5 +38,5 @@ class Solution:
 3.  while true  的位置，最开始写成了while not fast or not fast.next:
 
 4.  
-
+  
 '''
