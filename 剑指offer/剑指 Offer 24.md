@@ -2,7 +2,7 @@
 ====
 https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
 
-> [方法一： 迭代](https://github.com/PearlCoastal/Leetcode_GitOn/new/master/%E5%89%91%E6%8C%87offer#%E6%96%B9%E6%B3%95%E4%B8%80-%E8%BF%AD%E4%BB%A3)<br>
+> [方法一： 迭代]([https://github.com/PearlCoastal/Leetcode_GitOn/new/master/%E5%89%91%E6%8C%87offer#%E6%96%B9%E6%B3%95%E4%B8%80-%E8%BF%AD%E4%BB%A3](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2024.md#%E6%96%B9%E6%B3%95%E4%B8%80-%E8%BF%AD%E4%BB%A3))<br>
 > [方法二： 递归](https://github.com/PearlCoastal/Leetcode_Solutions_python3/blob/master/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87%20Offer%2024.md#%E6%96%B9%E6%B3%95%E4%BA%8C-%E9%80%92%E5%BD%92)<br>
 
 ## 题目描述
